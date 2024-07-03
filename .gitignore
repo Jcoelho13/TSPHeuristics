@@ -1,0 +1,5 @@
+cmake-build-debug/
+data/Extra_Fully_Connected_Graphs
+data/Real-World-Graphs
+data/Toy-Graphs
+.idea/
